@@ -16,11 +16,10 @@ Welcome to my portfolio! I'm  Sanvi Devnani, a 18-year-old BTech student special
 ### Hackerrank
 - Achievements: 3-star rating in Problem Solving, completed 20+ DSA challenges.
 
-
-![WhatsApp Image 2024-11-08 at 21 02 26_43713930](https://github.com/user-attachments/assets/b057d2cf-f3e9-4f3c-9793-6318fbd51779)
 ### Elabs
 - Achievements: Solved 30 ques in Elabs under data structure and algorithm.
 
+![WhatsApp Image 2024-11-08 at 21 02 26_43713930](https://github.com/user-attachments/assets/b057d2cf-f3e9-4f3c-9793-6318fbd51779)
 ### Contact
 - Email ID- sanvidevnani@gmail.com
 - Contact NO.- 8209877600
